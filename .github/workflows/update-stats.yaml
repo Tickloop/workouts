@@ -1,0 +1,38 @@
+name: Update Workout Stats
+
+on:
+  push:
+    paths:
+      - 'workouts/**'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Generate INSIGHTS.md
+        run: python insights/update_insights.py
+
+      - name: Generate TRENDS.md and consistency SVG
+        run: python trends/update_trends.py
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add insights/INSIGHTS.md trends/TRENDS.md trends/consistency.svg
+          git diff --staged --quiet || git commit -m "Update workout stats [skip ci]"
+          git push
