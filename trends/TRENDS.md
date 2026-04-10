@@ -1,6 +1,6 @@
 # Workout Trends
 
-> Last updated: 2026-04-02 (auto-generated -- do not edit)
+> Last updated: 2026-04-10 (auto-generated -- do not edit)
 
 ## Consistency
 
@@ -10,6 +10,7 @@
 
 | Week | Workouts | Total Volume | Avg Duration | vs Prev Week |
 |------|----------|-------------|-------------|--------------|
+| Apr 06-12 | 1 | 0 lbs | 80 min | 🔴 |
 | Mar 30-05 | 2 | 14,030 lbs | 80 min | -- |
 
 ## Exercise Trends
