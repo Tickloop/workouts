@@ -1,6 +1,6 @@
 # Workout Trends
 
-> Last updated: 2026-04-10 (auto-generated -- do not edit)
+> Last updated: 2026-04-12 (auto-generated -- do not edit)
 
 ## Consistency
 
@@ -10,10 +10,22 @@
 
 | Week | Workouts | Total Volume | Avg Duration | vs Prev Week |
 |------|----------|-------------|-------------|--------------|
-| Apr 06-12 | 1 | 0 lbs | 80 min | 🔴 |
+| Apr 06-12 | 1 | 4,840 lbs | 80 min | 🔴 |
 | Mar 30-05 | 2 | 14,030 lbs | 80 min | -- |
 
 ## Exercise Trends
+
+### Preacher (Biceps)
+
+| Date | Top Weight | Est. 1RM | Trend |
+|------|-----------|----------|-------|
+| 2026-04-09 | 35 x 6 | 42 | -- |
+
+### Zottman (Biceps)
+
+| Date | Top Weight | Est. 1RM | Trend |
+|------|-----------|----------|-------|
+| 2026-04-09 | 20 x 8 | 25 | -- |
 
 ### Bench Press (Chest)
 
@@ -39,6 +51,18 @@
 | Date | Top Weight | Est. 1RM | Trend |
 |------|-----------|----------|-------|
 | 2026-04-01 | 55 x 12 | 77 | -- |
+
+### Overhead V (Triceps)
+
+| Date | Top Weight | Est. 1RM | Trend |
+|------|-----------|----------|-------|
+| 2026-04-09 | 40 x 12 | 56 | -- |
+
+### Rope Push (Triceps)
+
+| Date | Top Weight | Est. 1RM | Trend |
+|------|-----------|----------|-------|
+| 2026-04-09 | 30 x 12 | 42 | -- |
 
 ### Triceps Pushdown (Triceps)
 

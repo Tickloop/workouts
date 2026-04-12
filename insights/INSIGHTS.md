@@ -1,6 +1,6 @@
 # Workout Insights
 
-> Last updated: 2026-04-10 (auto-generated -- do not edit)
+> Last updated: 2026-04-12 (auto-generated -- do not edit)
 
 ## Time Statistics
 
@@ -26,10 +26,8 @@
 
 | Exercise | PR Weight | Reps @ PR | Date | Badge |
 |----------|-----------|-----------|------|-------|
-| - 20 x 8 | BW | 0 reps | 2026-04-09 | 👑 🆕 |
-| - 35 x 6 | BW | 0 reps | 2026-04-09 | 👑 🆕 |
-| Preacher | BW | 0 reps | 2026-04-09 | 👑 🆕 |
-| Zottman | BW | 0 reps | 2026-04-09 | 👑 🆕 |
+| Preacher | 35 | 6 reps | 2026-04-09 | 👑 🆕 |
+| Zottman | 20 | 8 reps | 2026-04-09 | 👑 🆕 |
 
 ### Chest
 
@@ -44,10 +42,8 @@
 
 | Exercise | PR Weight | Reps @ PR | Date | Badge |
 |----------|-----------|-----------|------|-------|
-| - 30 x 12 | BW | 0 reps | 2026-04-09 | 👑 🆕 |
-| - 40 x 12 | BW | 0 reps | 2026-04-09 | 👑 🆕 |
-| Overhead V | BW | 0 reps | 2026-04-09 | 👑 🆕 |
-| Rope Push | BW | 0 reps | 2026-04-09 | 👑 🆕 |
+| Overhead V | 40 | 12 reps | 2026-04-09 | 👑 🆕 |
+| Rope Push | 30 | 12 reps | 2026-04-09 | 👑 🆕 |
 | Triceps Pushdown | 50 | 12 reps | 2026-03-31 | 👑 🆕 |
 
 ## Workout Frequency
@@ -80,10 +76,8 @@
 
 | Exercise | Sessions | Total Sets | Avg Reps | Max Reps | Avg Weight | Max Weight |
 |----------|----------|-----------|----------|----------|------------|------------|
-| - 20 x 8 | 1 | 0 | 0.0 | 0 | 0.0 | 0 |
-| - 35 x 6 | 1 | 0 | 0.0 | 0 | 0.0 | 0 |
-| Preacher | 1 | 0 | 0.0 | 0 | 0.0 | 0 |
-| Zottman | 1 | 0 | 0.0 | 0 | 0.0 | 0 |
+| Preacher | 1 | 4 | 6.0 | 6 | 35.0 | 35 |
+| Zottman | 1 | 4 | 8.0 | 8 | 20.0 | 20 |
 
 #### Chest
 
@@ -98,8 +92,6 @@
 
 | Exercise | Sessions | Total Sets | Avg Reps | Max Reps | Avg Weight | Max Weight |
 |----------|----------|-----------|----------|----------|------------|------------|
-| - 30 x 12 | 1 | 0 | 0.0 | 0 | 0.0 | 0 |
-| - 40 x 12 | 1 | 0 | 0.0 | 0 | 0.0 | 0 |
-| Overhead V | 1 | 0 | 0.0 | 0 | 0.0 | 0 |
-| Rope Push | 1 | 0 | 0.0 | 0 | 0.0 | 0 |
+| Overhead V | 1 | 4 | 12.0 | 12 | 40.0 | 40 |
+| Rope Push | 1 | 4 | 12.0 | 12 | 30.0 | 30 |
 | Triceps Pushdown | 1 | 2 | 13.5 | 15 | 47.5 | 50 |
