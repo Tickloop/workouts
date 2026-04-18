@@ -1,6 +1,6 @@
 # Workout Insights
 
-> Last updated: 2026-04-10 (auto-generated -- do not edit)
+> Last updated: 2026-04-18 (auto-generated -- do not edit)
 
 ## Time Statistics
 
